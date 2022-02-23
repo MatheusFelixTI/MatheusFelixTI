@@ -3,7 +3,7 @@
 - 🔭 Estou a procura de projetos front-end, para aprender e aprimorar meus conhecimentos 
 - 🌱 Estudando Javascript e Tailwind CSS
 - 📫 Email: mat.fcarlos@gmail.com
-- ⚡ TCC Curso técnico: https://www.youtube.com/watch?v=2x15_fZatNk e http://exposoftalcina.com.br/ - Check Livros 😎
+- ⚡ TCC Curso técnico: https://www.youtube.com/watch?v=2x15_fZatNk e http://exposoftalcina.com.br/ - Check Livros
 <br>
 <div align="center">
   <a href="https://github.com/MatheusFelixTI">
